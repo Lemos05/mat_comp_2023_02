@@ -1,0 +1,12 @@
+{
+  "name": "mat_comp_2023_02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sete": "ts-node ./src/exercicio7.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
